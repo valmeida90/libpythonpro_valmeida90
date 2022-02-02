@@ -5,6 +5,9 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 
 Link para o curso [Python Pro](https://www.python.pro.br/)
 
+[![Updates](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/shield.svg)](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/)
+[![Python 3](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/python-3-shield.svg)](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/)
+
 Suportada versão 3 de Python
 
 ```console
