@@ -9,7 +9,7 @@ pluggy==0.12
 pytest==6.2
 iniconfig==1.1
 attrs==19.2
-toml==0.10
+toml==0.10.2
 
 -r requirements.txt
 
