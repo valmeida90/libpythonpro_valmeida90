@@ -6,7 +6,7 @@ pyflakes==2.4.0
 # Deps do pytest
 py==1.8.2
 pluggy==0.12
-pytest==6.2
+pytest==6.2.5
 iniconfig==1.1
 attrs==19.2
 toml==0.10
