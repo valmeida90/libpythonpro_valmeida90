@@ -29,10 +29,6 @@ jobs:
       uses: codecov/codecov-action@v2
       with:
         fail_ci_if_error: true
-    - name: Relátorio Covarege
-      run: |
-        codecov
-      env:
         CODECOV_TOKEN=: '8a995a80-d3a6-41d4-b011-817d80c9868b'
 
 
