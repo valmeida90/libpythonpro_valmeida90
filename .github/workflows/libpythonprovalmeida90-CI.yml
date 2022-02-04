@@ -21,8 +21,3 @@ jobs:
         checkName: 'flake8_py3'   # NOTE: this needs to be the same as the job name
     - name: Test with pytest
       run: pytest libpythonpro_valmeida90 --cov=libpythonpro_valmeida90
-    - name: Relatório Coverage
-      env:
-        CODECOV_TOKEN: "8a995a80-d3a6-41d4-b011-817d80c9868b"
-      run: |
-        pipenv run codecov
