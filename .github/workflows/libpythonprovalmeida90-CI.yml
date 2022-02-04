@@ -28,7 +28,7 @@ jobs:
 
     - name: Relátorio Covarege
       run: |
-        codecov
+        pipenv run codecov
       env:
         CODECOV_TOKEN=: '8a995a80-d3a6-41d4-b011-817d80c9868b'
 
