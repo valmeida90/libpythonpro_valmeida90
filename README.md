@@ -7,6 +7,7 @@ Link para o curso [Python Pro](https://www.python.pro.br/)
 
 [![Updates](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/shield.svg)](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/)
 [![Python 3](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/python-3-shield.svg)](https://pyup.io/repos/github/valmeida90/libpythonpro_valmeida90/)
+[![codecov](https://codecov.io/gh/valmeida90/libpythonpro_valmeida90/branch/master/graph/badge.svg?token=L780AE29C9)](https://codecov.io/gh/valmeida90/libpythonpro_valmeida90)
 
 Suportada versão 3 de Python
 
