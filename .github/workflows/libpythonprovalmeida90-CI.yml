@@ -27,6 +27,8 @@ jobs:
       run: pytest libpythonpro_valmeida90 --cov=libpythonpro_valmeida90
     - name: "Upload coverage to Codecov"
       uses: codecov/codecov-action@v2
+      run: |
+        codecov
       with:
         fail_ci_if_error: true
         token:
