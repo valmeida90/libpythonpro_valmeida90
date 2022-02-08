@@ -30,7 +30,7 @@ jobs:
         codecov
       env:
         token:
-    - name: "Upload coverage to Codecov"
+    - name: Relatório Codecov 2
       uses: codecov/codecov-action@v2
       with:
         fail_ci_if_error: true
